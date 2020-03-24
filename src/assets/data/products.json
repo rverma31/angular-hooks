@@ -1,0 +1,42 @@
+[   
+    {
+        "id": 1,
+        "name": "Galaxy S20 Ultra 5G 512GB (sprint)",
+        "description": "Galaxy S8 is powered by 1.9GHz octa-core Samsung Exynos 8895 processor. It has 4GB RAM and packs 64GB internal storage, expandable up to 256GB via microSD card. The smartphone comes with what the company calls Infinity Display, featuring dual-edge curved display and 18.5:9 aspect ratio.",
+        "price": "999.99",
+        "imageUrl": "https://source.unsplash.com/1600x900/?product",
+        "quantity": 60316
+    },
+    {
+        "id": 2,
+        "name": "Galaxy S20 Ultra 5G 128GB (verizon)",
+        "description": "Galaxy S8 is powered by 1.9GHz octa-core Samsung Exynos 8895 processor. It has 4GB RAM and packs 64GB internal storage, expandable up to 256GB via microSD card. The smartphone comes with what the company calls Infinity Display, featuring dual-edge curved display and 18.5:9 aspect ratio.",
+        "price": "799.99",
+        "imageUrl": "https://source.unsplash.com/1600x900/?product",
+        "quantity": 90716
+    },
+    {
+        "id": 3,
+        "name": "Samsung Galaxy S10",
+        "description": "The phone comes with a 6.10-inch touchscreen display and an aspect ratio of 19:9. Samsung Galaxy S10 is powered by a 1.9GHz octa-core Samsung Exynos 9820 processor. It comes with 8GB of RAM. The Samsung Galaxy S10 runs Android 9.0 and is powered by a 3400mAh non-removable battery.",
+        "price": "899.00",
+        "imageUrl": "https://source.unsplash.com/1600x900/?product",
+        "quantity": 56840
+    },
+    {
+        "id": 4,
+        "name": "Samsung Galaxy S9",
+        "description": "The Samsung Galaxy S9 is a smartphone that was tested with the Android 8.0. 0 operating system. This model weighs 5.6 ounces, has a 5.8 inch touch screen display, 12-megapixel main camera, and 8-megapixel selfie camera. It comes with 4GB of RAM.",
+        "price": "720.00",
+        "imageUrl": "https://source.unsplash.com/1600x900/?product",
+        "quantity": 9358
+    },
+    {
+        "id": 5,
+        "name": "Samsung Galaxy S8",
+        "description": "Galaxy S8 is powered by 1.9GHz octa-core Samsung Exynos 8895 processor. It has 4GB RAM and packs 64GB internal storage, expandable up to 256GB via microSD card. The smartphone comes with what the company calls Infinity Display, featuring dual-edge curved display and 18.5:9 aspect ratio.",
+        "price": "499.99",
+        "imageUrl": "https://source.unsplash.com/1600x900/?product",
+        "quantity": 316
+    }
+]

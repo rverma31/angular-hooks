@@ -1,0 +1,16 @@
+<h3 class="user-title">Our Customers</h3>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4" *ngFor="let user of userInfo">
+            <div class="card" >
+                <img src="assets/user.png" alt="user" class="card-img-top">
+                <div class="card-body">
+                    <h4>{{ user.name }}</h4>
+                    <div><a href="mailto:">{{ user.email }}</a></div>
+                    <div>{{ user.phone }}</div>
+                    <div><a>{{ user.website }}</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
